@@ -1,2 +1,2 @@
 # Pose-Detection-project
-ML1 course projecr
+ML1 course project
