@@ -7,4 +7,5 @@ Jupyter notebook showing how to estimate face pose detection (which way someone 
 
 ![WhatsApp Image 2022-06-17 at 8 31 16 PM](https://user-images.githubusercontent.com/72360864/174357210-17d53f6b-12fe-4e74-99bc-73a8b8dad65e.jpeg)
 ###  
-![WhatsApp Image 2022-06-17 at 8 21 01 PM](https://user-images.githubusercontent.com/72360864/174357299-dc5e8365-1ef9-4d16-9512-e66c6a94c5bc.jpeg)
+
+![WhatsApp Image 2022-06-17 at 8 43 47 PM](https://user-images.githubusercontent.com/72360864/174363667-dfd8f6c3-02e6-40a8-a170-48f0f65d4af5.jpeg)
