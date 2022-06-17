@@ -5,7 +5,5 @@ Jupyter notebook showing how to estimate face pose detection (which way someone 
 
 # Here are videos of modeling the results using Mediapipe:
 
-https://user-images.githubusercontent.com/72360864/174352838-0e6824ae-220c-4b58-b41d-474a96be1779.mp4   
-
-
+https://user-images.githubusercontent.com/72360864/174353813-c55dd7f1-7b79-4f89-af9a-4261e920f466.mp4
 
